@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ibrahim;Aspiring+Backend+%2B+AI+Systems+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&duration=4000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Mohammed+Ibrahim;Backend+%2B+AI+Systems+Engineer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -20,9 +20,8 @@ Building strong, reliable backend systems.
 
 <br/>
 
-### ✦ Goals
-- Build a strong foundation in Backend Engineering.
-- Ship production-ready real-world projects.
+### ✦ Goal for this year
+Build a strong foundation in Backend Engineering and ship real projects.
 
 <br/>
 
@@ -30,7 +29,7 @@ Building strong, reliable backend systems.
 <div align="center">
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,mysql,linux,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,linux,git,github,vscode&theme=dark" />
   </a>
 </div>
 
