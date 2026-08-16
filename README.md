@@ -32,25 +32,22 @@ def get_yearly_goal():
 
 ---
 
-### 🐍 Contribution Activity
+### 🟩 3D Contribution Matrix
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carbonthecoder/carbonthecoder/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carbonthecoder/carbonthecoder/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carbonthecoder/carbonthecoder/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub Contribution Graph" width="100%" />
 </div>
 
 ---
 
 ### 📊 `system_metrics.json`
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carbonthecoder&show_icons=true&theme=matrix&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carbonthecoder&theme=matrix&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=carbonthecoder&show_icons=true&bg_color=000000&title_color=00FF00&text_color=ffffff&icon_color=00FF00&border_color=333333&hide_border=false&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carbonthecoder&background=000000&border=333333&ring=00FF00&fire=00FF00&currStreakNum=ffffff&sideNums=ffffff&sideLabels=cccccc&dates=cccccc&currStreakLabel=00FF00" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonthecoder&layout=compact&theme=matrix&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonthecoder&layout=compact&bg_color=000000&title_color=00FF00&text_color=ffffff&border_color=333333" width="60%" />
 </div>
 
 <div align="center">
