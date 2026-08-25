@@ -69,6 +69,8 @@
 </div>
 
 [![Discord Presence](https://lanyard.arshnah.in/api/954250474763198494)](https://discord.com/users/954250474763198494)
+
+
     
 &emsp;  ![Last.fm Now Playing](https://lastly.arshnah.in/api/now-playing?username=carbonthecoder&theme=dark&bg=00000)
 
