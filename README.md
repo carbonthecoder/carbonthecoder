@@ -1,3 +1,9 @@
+
+<a href="https://github.com/arshnah">
+  <img src="https://banner.arshnah.in/api/banner" width="100%" alt="banner"/>
+</a>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=200&section=header&text=Mohammed%20Ibrahim&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Backend%20+%20AI%20Systems%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
