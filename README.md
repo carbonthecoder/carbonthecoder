@@ -7,6 +7,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=200&section=header&text=Mohammed%20Ibrahim&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=FFFFFF&desc=Backend%20+%20AI%20Systems%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 </div>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarbonthecoder&label=Visitors%20%3A)
 
 <div align="center">
   <a href="https://linkedin.com/in/mohammed-ibrahim" target="_blank">
@@ -75,4 +76,3 @@
 &emsp;  ![Last.fm Now Playing](https://lastly.arshnah.in/api/now-playing?username=carbonthecoder&theme=dark&bg=00000)
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarbonthecoder&label=Visitors%20%3A)&countColor=%23697689)
