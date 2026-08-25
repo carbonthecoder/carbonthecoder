@@ -75,7 +75,4 @@
 &emsp;  ![Last.fm Now Playing](https://lastly.arshnah.in/api/now-playing?username=carbonthecoder&theme=dark&bg=00000)
 
 
-<br/>
-<div align="center">
-  <code>Profile Visitors</code><br/>
-  ![](https://komarev.com/ghpvc/?username=carbonthecoder)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarbonthecoder&label=Visitors%20%3A)&countColor=%23697689)
