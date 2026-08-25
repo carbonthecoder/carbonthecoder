@@ -68,7 +68,7 @@
   </picture>
 </div>
 
-[![Discord Presence](https://lanyard.arshnah.in/api/954250474763198494)](https://discord.com/users/954250474763198494)
+[![Discord Presence](https://lanyard.arshnah.in/api/954250474763198494?hideSpotify=true)](https://discord.com/users/954250474763198494)
 
 
     
