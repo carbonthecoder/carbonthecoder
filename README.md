@@ -19,7 +19,9 @@
   <a href="https://carbonthecoder.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=appveyor&logoColor=black" alt="Portfolio"/>
   </a>
-  <br><br>
+  
+  <br>
+  
   [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarbonthecoder&label=Visitors%20%3A)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcarbonthecoder)
 </div>
 <br/>
