@@ -54,8 +54,8 @@
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonthecoder&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonthecoder&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+
 
 ---
 
@@ -67,9 +67,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carbonthecoder/carbonthecoder/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-</div>            ![Last.fm Now Playing](https://lastly.arshnah.in/api/now-playing?username=carbonthecoder&theme=dark&bg=00000)
-</div>
+   
+    
+&emsp;  ![Last.fm Now Playing](https://lastly.arshnah.in/api/now-playing?username=carbonthecoder&theme=dark&bg=00000)
 
 
 <br/>
