@@ -9,10 +9,10 @@
 </div>
 
 
-  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarbonthecoder&label=Visitors%20%3A)&countColor=%23697689)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcarbonthecoder)
+&emsp&emsp  [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcarbonthecoder&label=Visitors%20%3A)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcarbonthecoder)
 
 <div align="center">
-  <a href="https://linkedin.com/in/mohammed-ibrahim" target="_blank">
+  <a href="https://linkedin.com/in/mohammed-ibrahim" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/carbonthecoder" target="_blank">
