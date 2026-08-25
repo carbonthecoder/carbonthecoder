@@ -78,5 +78,5 @@
 <br/>
 <div align="center">
   <code>Profile Visitors</code><br/>
-  <img src="https://profile-counter.glitch.me/carbonthecoder/count.svg" />
+  <img src=![](https://komarev.com/ghpvc/?username=your-github-carbonthecoder) />
 </div>
