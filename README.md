@@ -68,8 +68,8 @@
   </picture>
 </div>
 
-![Last.fm Now Playing](https://lastly.arshnah.in/api/now-playing?username=carbonthecoder&theme=dark&bg=00000)
-
+</div>            ![Last.fm Now Playing](https://lastly.arshnah.in/api/now-playing?username=carbonthecoder&theme=dark&bg=00000)
+</div>
 
 
 <br/>
