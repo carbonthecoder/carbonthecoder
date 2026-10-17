@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  <a href="https://portfolio-v2.vercel.app">
+  <a href="https://carbon.is-a.dev/">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&border=white" alt="Portfolio"/>
   </a>
   <a href="https://twitter.com/carbonthecoder">
