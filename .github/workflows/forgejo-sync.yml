@@ -1,0 +1,41 @@
+name: Auto-Sync All Repos to Forgejo
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically once every 24 hours
+  workflow_dispatch: # Allows you to trigger it manually anytime with 1 click
+
+jobs:
+  sync-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync Repositories to Forgejo
+        env:
+          GH_USERNAME: "carbonthecoder"
+          FORGEJO_INSTANCE: "https://v16.next.forgejo.org"
+          FORGEJO_TOKEN: ${{ secrets.FORGEJO_TOKEN }}
+        run: |
+          echo "Fetching GitHub repositories for $GH_USERNAME..."
+          GH_REPOS=$(curl -s "https://api.github.com/users/$GH_USERNAME/repos?per_page=100" | jq -r '.[].name')
+
+          echo "Fetching existing Forgejo repositories..."
+          FORGEJO_REPOS=$(curl -s -H "Authorization: token $FORGEJO_TOKEN" "$FORGEJO_INSTANCE/api/v1/users/$GH_USERNAME/repos" | jq -r '.[].name // empty')
+
+          for REPO in $GH_REPOS; do
+            if echo "$FORGEJO_REPOS" | grep -qx "$REPO"; then
+              echo "✓ $REPO already exists on Forgejo."
+            else
+              echo "→ Mirroring new repo $REPO to Forgejo..."
+              curl -s -X POST "$FORGEJO_INSTANCE/api/v1/repos/migrate" \
+                -H "Authorization: token $FORGEJO_TOKEN" \
+                -H "Content-Type: application/json" \
+                -d "{
+                  \"clone_addr\": \"https://github.com/$GH_USERNAME/$REPO.git\",
+                  \"repo_name\": \"$REPO\",
+                  \"repo_owner\": \"$GH_USERNAME\",
+                  \"mirror\": true,
+                  \"service\": \"git\"
+                }"
+              echo " Created mirror for $REPO"
+            fi
+          done
