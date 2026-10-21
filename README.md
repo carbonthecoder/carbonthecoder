@@ -4,73 +4,16 @@
 
 <br>
 
-<h1 align="left">
-  MOHAMMED IBRAHIM.
-</h1>
+ > [!IMPORTANT]
+> my actual code lives on my Forgejo instance *(domain coming soon)* and mirrors to [Codeberg](https://codeberg.org/carbonthecoder). this place is a graveyard ngl.
+>
+> and yeah [there's](https://www.reuters.com/world/middle-east/microsoft-disables-services-israel-defense-unit-after-review-2025-09-25/) [a](https://apnews.com/article/israel-palestinians-ai-technology-737bc17af7b03e98c29cec4e15d0f108) [reason](https://github.blog/changelog/2026-03-25-updates-to-our-privacy-statement-and-terms-of-service-how-we-use-your-data/) [i](https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repositories-now-private-can-still-be-accessed-through-copilot/) [barely use this](https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/).
 
-<p align="left">
-  <b>16 Y/O • HYDERABAD, IN • BACKEND & AI SYSTEMS ENGINEER</b><br>
-  I'm a self-taught developer building unshakeable backend foundations. I spend my time writing Python, Linux, SQL, and exploring the internet.
-</p>
+freelancer. i build random stuff that hits me and somehow ends up as a real project.
 
-<p align="left">
-  <a href="https://carbon.is-a.dev/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&border=white" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com/carbonthecoder">
-    <img src="https://img.shields.io/badge/X_TWITTER-000000?style=for-the-badge&logo=x&logoColor=white&border=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/mohammed-ibrahim"> 
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&border=white" alt="LinkedIn"/>
-  </a>
-</p>
+I spend 10% of my time writing code and 90% wondering why it works.
 
-<br>
-
-### 01. LIVE TELEMETRY
-<p align="left">
-  <a href="https://discord.com/users/954250474763198494">
-    <img src="https://lanyard.arshnah.in/api/954250474763198494?hideSpotify=true" alt="Discord Presence"/>
-  </a>
-  &nbsp;
-  <img src="https://lastly.arshnah.in/api/now-playing?username=carbonthecoder&theme=dark&bg=000000" alt="Last.fm Now Playing"/>
-</p>
-
-<br>
-
-### 02. GITHUB METRICS
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=carbonthecoder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carbonthecoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="195" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=carbonthecoder&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</p>
-
-<br>
-
-### 03. TECH STACK
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,postgres,linux,git,github,vscode&theme=dark" />
-  </a>
-</p>
-
-<br>
-
-### 04. CONTRIBUTION MATRIX
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carbonthecoder/carbonthecoder/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carbonthecoder/carbonthecoder/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carbonthecoder/carbonthecoder/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
-<br>
+not looking for jobs or whatever, just building things i find interesting. if u wanna talk feel free!! or anything → [carbon.is-a.dev](https://carbon.is-a.dev/)
 
 <p align="center">
   <a href="https://theuncommons.vercel.app/">
