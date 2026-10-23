@@ -5,7 +5,7 @@
 <br>
 
  > [!IMPORTANT]
-> my actual code lives on my [Forgejo](https://https://git.carbon.is-a.dev/) instance  and mirrors to [Codeberg](https://codeberg.org/carbonthecoder). this place is a graveyard ngl.
+> my actual code lives on my [Forgejo](https://git.carbon.is-a.dev/) instance  and mirrors to [Codeberg](https://codeberg.org/carbonthecoder). this place is a graveyard ngl.
 >
 > and yeah [there's](https://www.reuters.com/world/middle-east/microsoft-disables-services-israel-defense-unit-after-review-2025-09-25/) [a](https://apnews.com/article/israel-palestinians-ai-technology-737bc17af7b03e98c29cec4e15d0f108) [reason](https://github.blog/changelog/2026-03-25-updates-to-our-privacy-statement-and-terms-of-service-how-we-use-your-data/) [i](https://techcrunch.com/2025/02/26/thousands-of-exposed-github-repositories-now-private-can-still-be-accessed-through-copilot/) [barely use this](https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/).
 
