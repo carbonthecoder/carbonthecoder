@@ -11,7 +11,7 @@
 
 freelancer. i build random stuff that hits me and somehow ends up as a real project.
 
-I spend 10% of my time writing code and 90% wondering why it works.
+Fun fact - I spend 10% of my time writing code and 90% wondering why it works.
 
 not looking for jobs or whatever, just building things i find interesting. if u wanna talk feel free!! or anything → [carbon.is-a.dev](https://carbon.is-a.dev/)
 
