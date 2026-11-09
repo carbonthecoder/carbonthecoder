@@ -1,3 +1,4 @@
+[![Banner](https://banners.carbon.is-a.dev/api/banner?tint=true)](https://github.com/username)
 <a href="https://github.com/carbonthecoder">
   <img src="https://banner.arshnah.in/api/banner" width="100%" alt="banner"/>
 </a>
